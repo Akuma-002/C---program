@@ -9,7 +9,6 @@ void insertion(int arr[], int size){
             j--;
         }
         arr[j + 1] = key;
-
     }
 }
 int main (){
