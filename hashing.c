@@ -4,5 +4,5 @@ int hash[122] = {0};
 int main(){
     printf("Hello");
     printf("Sahil");
-    printf("SK SAHIL UDDIN ")
+    printf("SK SAHIL UDDIN ");
 }
