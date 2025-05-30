@@ -3,5 +3,5 @@
 int hash[122] = {0};
 int main(){
     printf("Hello");
-    print
+    
 }
