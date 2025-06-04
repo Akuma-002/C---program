@@ -3,6 +3,6 @@
 int hash[122] = {0};
 int main(){
     printf("Hello");
-    printf("Hello"
+    printf("Hell
     return 0;
 }
