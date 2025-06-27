@@ -1,6 +1,6 @@
 #include<stdio.h>
 void check(int row, int col, int arr[row][col]){
-    int i, j;
+    int i, j, k;
     int nonZero =0, zero =0;
     for(i = 0; i  < row; i++){
         for(j = 0; j < col; j++){
